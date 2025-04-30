@@ -1,0 +1,14 @@
+[project]
+name = "quantum-error-correction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "noobOriented", email = "jsaon92@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ipython>=9.2.0",
+    "numpy>=2.2.5",
+    "typer>=0.15.3",
+]
